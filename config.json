@@ -1,0 +1,197 @@
+{
+    "token": "MTIyNTgzOTQyNTY4MzA2Mjg3Ng.G2obpg.eUhUBL125l62AVkuGCAZT_xn4VNHFGzh-6ocF8",
+    "serverId": 1225839346507321502,
+    "ownerIds": [372547883808849920],
+    "phoneNumber": "0931514153",
+
+    "buysuccess": 1225839547548696656,
+    "logtopups": 1225839547548696656,
+    "logbuydm": 1225839547548696656,
+    "STREAM_NAME": "Tontakoon",
+
+    "USE_URL": "https://www.youtube.com/watch?v=aPf1ejUjBjY",
+
+    "name": "Tontakoon",
+    "header": "Hello World!",
+    "image_shop": "https://i.pinimg.com/originals/7c/89/90/7c89904c65970d2581ce4b5a392f7712.gif",
+    "footer": "Created By Tontakoon",
+    "footer_icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+
+    "roleSettings": [
+        {
+            "name": "VALORANT-ID1",
+            "roleId": 1231213423665348671,
+            "price": 270,
+            "description": "ราคา 270 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID2",
+            "roleId": 1231213423665348671,
+            "price": 250,
+            "description": "ราคา 250 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID3",
+            "roleId": 1231213423665348671,
+            "price": 150,
+            "description": "ราคา 150 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID4",
+            "roleId": 1231213423665348671,
+            "price": 135,
+            "description": "ราคา 135 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID5",
+            "roleId": 1231213423665348671,
+            "price": 125,
+            "description": "ราคา 125 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID6",
+            "roleId": 1231213423665348671,
+            "price": 135,
+            "description": "ราคา 135 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID7",
+            "roleId": 1231213423665348671,
+            "price": 130,
+            "description": "ราคา 130 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID8",
+            "roleId": 1231213423665348671,
+            "price": 140,
+            "description": "ราคา 140 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID9",
+            "roleId": 1231213423665348671,
+            "price": 135,
+            "description": "ราคา 135 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID10",
+            "roleId": 1231213423665348671,
+            "price": 80,
+            "description": "ราคา 80 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID11",
+            "roleId": 1231213423665348671,
+            "price": 60,
+            "description": "ราคา 60 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID12",
+            "roleId": 1231213423665348671,
+            "price": 80,
+            "description": "ราคา 80 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID13",
+            "roleId": 1231213423665348671,
+            "price": 90,
+            "description": "ราคา 90 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID14",
+            "roleId": 1231213423665348671,
+            "price": 80,
+            "description": "ราคา 80 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID15",
+            "roleId": 1231213423665348671,
+            "price": 85,
+            "description": "ราคา 85 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID16",
+            "roleId": 1231213423665348671,
+            "price": 50,
+            "description": "ราคา 50 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID17",
+            "roleId": 1231213423665348671,
+            "price": 170,
+            "description": "ราคา 170 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID18",
+            "roleId": 1231213423665348671,
+            "price": 230,
+            "description": "ราคา 230 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID19",
+            "roleId": 1231213423665348671,
+            "price": 130,
+            "description": "ราคา 130 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID20",
+            "roleId": 1231213423665348671,
+            "price": 160,
+            "description": "ราคา 160 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID21",
+            "roleId": 1231213423665348671,
+            "price": 120,
+            "description": "ราคา 120 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID22",
+            "roleId": 1231213423665348671,
+            "price": 110,
+            "description": "ราคา 110 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID23",
+            "roleId": 1231213423665348671,
+            "price": 120,
+            "description": "ราคา 120 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID24",
+            "roleId": 1231213423665348671,
+            "price": 50,
+            "description": "ราคา 50 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        },
+        {
+            "name": "VALORANT-ID25",
+            "roleId": 1231213423665348671,
+            "price": 130,
+            "description": "ราคา 130 บาท",
+            "emoji": "<:6028valorant:1203010512527302656>"
+        }
+    ]
+}
